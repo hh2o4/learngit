@@ -1,0 +1,24 @@
+{
+  "name": "learngit",
+  "version": "1.0.0",
+  "description": "Merge strategies includes: Recursive ... fasdfa dfasd",
+  "main": "index.js",
+  "dependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hh2o4/learngit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hh2o4/learngit/issues"
+  },
+  "homepage": "https://github.com/hh2o4/learngit#readme"
+}
