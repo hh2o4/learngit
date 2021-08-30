@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Merge strategies includes: Recursive ... fasdfa dfasd",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "cz-conventional-changelog": "^3.3.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/hh2o4/learngit/issues"
   },
-  "homepage": "https://github.com/hh2o4/learngit#readme"
+  "homepage": "https://github.com/hh2o4/learngit#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
